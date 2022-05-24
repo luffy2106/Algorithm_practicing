@@ -1,1 +1,4 @@
-# Coding_interview
+# Algorithm practicing
+
+
+This resporitory is for practicing code
